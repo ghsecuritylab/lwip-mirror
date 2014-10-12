@@ -38,6 +38,8 @@
 #ifndef __LWIP_OPT_H__
 #define __LWIP_OPT_H__
 
+#error ppp-new branch was merged to master and this branch is not going to be updated anymore, you should switch back to master branch
+
 /*
  * Include user defined options first. Anything not defined in these files
  * will be set to standard values. Override anything you dont like!
